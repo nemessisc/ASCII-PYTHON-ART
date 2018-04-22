@@ -5,7 +5,7 @@
 **Installation:**
 1. clone this repository 
 2. cd into ASCII-PYTHON-ART
-3. install reuiquirements with
+3. install requirements with
 ```bash
 pip install -r requirements.txt 
 ```
